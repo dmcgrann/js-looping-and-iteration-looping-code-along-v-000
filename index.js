@@ -4,6 +4,6 @@ function printBadges(names) {
         console.log(`Welcome ${names[i]}!`);
     }
  
-    return gifts;
+    return names;
 }
  
