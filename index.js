@@ -11,5 +11,5 @@ function tailsNeverFails() {
 }
 
 while (tailsNeverFails() === true) {
-  console.log(${t+1})
+  console.log("${t+1}")
 }
